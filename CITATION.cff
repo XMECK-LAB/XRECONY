@@ -1,9 +1,27 @@
 cff-version: 1.2.0
 title: "XRECONY"
-message: "If you use XRECONY in research or technical work, please cite this software."
+message: "If you use XRECONY in research, evaluation, teaching, or technical work, please cite this software."
 type: software
 authors:
   - family-names: "Mandale"
     given-names: "Raaj"
+    orcid: "https://orcid.org/0009-0005-9810-1655"
+    affiliation: "XMECK-LAB"
 version: "2.0.0"
 date-released: "2026-09-29"
+repository-code: "https://github.com/XMECK-LAB/XRECONY"
+url: "https://github.com/XMECK-LAB/XRECONY"
+abstract: >-
+  XRECONY is a Windows data-reconstruction workspace for readable data estates.
+  It builds an evidence-backed structural twin in a separate workspace to support
+  structural understanding, relationship analysis, duplicate/version candidate
+  investigation, drift detection, evidence verification, and bounded copy-first
+  realization without intentionally modifying the source.
+keywords:
+  - data reconstruction
+  - structural metadata
+  - filesystem analysis
+  - evidence
+  - drift detection
+  - duplicate candidates
+  - data estate
