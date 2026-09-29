@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="340" viewBox="0 0 1200 340" role="img" aria-label="XRECONY workflow">
+<defs><linearGradient id="b" x1="0" x2="1"><stop stop-color="#071a31"/><stop offset="1" stop-color="#092b4c"/></linearGradient><filter id="g"><feGaussianBlur stdDeviation="8"/></filter></defs>
+<rect width="1200" height="340" rx="24" fill="url(#b)"/>
+<text x="60" y="58" fill="#44d7ff" font-family="Segoe UI" font-size="17" font-weight="700" letter-spacing="3">HOW XRECONY WORKS</text>
+<g font-family="Segoe UI" text-anchor="middle">
+<g transform="translate(130 175)"><rect x="-78" y="-50" width="156" height="100" rx="20" fill="#0d3155" stroke="#2fa5ff"/><text y="-8" fill="#fff" font-size="20" font-weight="700">OBSERVE</text><text y="22" fill="#9fc0da" font-size="14">Readable source</text></g>
+<g transform="translate(365 175)"><rect x="-88" y="-50" width="176" height="100" rx="20" fill="#0d3155" stroke="#2fa5ff"/><text y="-8" fill="#fff" font-size="20" font-weight="700">RECONSTRUCT</text><text y="22" fill="#9fc0da" font-size="14">Structural twin</text></g>
+<g transform="translate(600 175)"><rect x="-78" y="-50" width="156" height="100" rx="20" fill="#0d3155" stroke="#2fa5ff"/><text y="-8" fill="#fff" font-size="20" font-weight="700">EXPLAIN</text><text y="22" fill="#9fc0da" font-size="14">Views + relations</text></g>
+<g transform="translate(835 175)"><rect x="-78" y="-50" width="156" height="100" rx="20" fill="#0d3155" stroke="#2fa5ff"/><text y="-8" fill="#fff" font-size="20" font-weight="700">VERIFY</text><text y="22" fill="#9fc0da" font-size="14">Evidence + drift</text></g>
+<g transform="translate(1070 175)"><rect x="-95" y="-50" width="190" height="100" rx="20" fill="#3b271a" stroke="#ff7b22"/><text y="-8" fill="#fff" font-size="20" font-weight="700">REALIZE</text><text y="22" fill="#ffc08a" font-size="14">Copy-first, separate</text></g>
+</g>
+<g stroke-width="3" fill="none"><path d="M208 175 H277" stroke="#2fa5ff"/><path d="M453 175 H522" stroke="#2fa5ff"/><path d="M678 175 H757" stroke="#2fa5ff"/><path d="M913 175 H975" stroke="#ff7b22"/></g>
+<text x="60" y="303" fill="#8fb4d1" font-family="Segoe UI" font-size="16">Safety invariant: the source remains the source. XRECONY writes reconstruction state to a separate workspace.</text>
+</svg>
