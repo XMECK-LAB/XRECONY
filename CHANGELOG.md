@@ -1,5 +1,9 @@
 # Public changelog
 
+## 2.0.0 — Public Preview
+
+Current XRECONY public product line. Expands the first engineering preview into a more complete evidence-oriented reconstruction workspace with generation comparison, drift handling, reports and copy-first realization.
+
 ## 1.0.0 — Engineering Preview
 
-First public XRECONY engineering release, distilled from the mature pre-2.0 lineage. Public numbering intentionally hides the internal V4–V11 engineering sequence.
+First public engineering release, distilled from the mature pre-2.0 lineage.

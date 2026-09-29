@@ -1,0 +1,10 @@
+XRECONY 2.0
+Copyright (c) 2026 Raaj Mandale / ERANEST. All rights reserved.
+
+This source and its associated product artifacts are proprietary. No permission
+is granted to copy, modify, distribute, sublicense, publish, or commercially use
+them except under a separate written agreement from the rights holder.
+
+Third-party components retain their own copyrights and licenses. Their declared
+licenses and package identities are recorded in THIRD_PARTY_NOTICES.md and the
+generated release SBOM. This notice does not relicense third-party components.
