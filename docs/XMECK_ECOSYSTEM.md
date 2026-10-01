@@ -1,6 +1,6 @@
 # XMECK-LAB × XRECONY
 
-**XRECONY** is the first public working-software project published under **[XMECK-LAB](https://github.com/XMECK-LAB)**.
+**XRECONY** is a public working-software product published under **[XMECK-LAB](https://github.com/XMECK-LAB)**.
 
 ## Identity separation
 
@@ -9,6 +9,7 @@
 | **[Raaj Mandale](https://github.com/raajmandale)** | Independent founder / systems architect / research identity and creator of XRECONY |
 | **[XMECK-LAB](https://github.com/XMECK-LAB)** | 2026 software/startup organization and public product home |
 | **[XRECONY](https://github.com/XMECK-LAB/XRECONY)** | Working reconstruction software |
+| **[XMECK-AI](https://github.com/XMECK-LAB/XMECK-AI)** | Private-first personal intelligence workspace |
 | **[XPADI-SGDS](https://github.com/raajmandale/XPADI-SGDS)** | Broader survivability and structural-reconstruction research lineage |
 
 ## XMECK-LAB public software map
@@ -16,17 +17,18 @@
 ```text
 XMECK-LAB
 ├── XRECONY
-│   └── structural reconstruction / evidence / data-estate understanding
+│   └── reconstruction / structural understanding
 ├── TRANSCRIPT
-│   └── governed execution
+│   └── governed execution infrastructure
 │       └── KAVACH
-│           └── trust / protection / key-authority substrate
+│           └── trust / protection substrate
 └── XMECK-AI
-    └── private / local intelligence workspace
-        └── evolved from the earlier QBOX-AI engineering lineage
+    └── private-first personal intelligence workspace
 ```
 
-Only XRECONY is represented here as already published in the XMECK-LAB organization. Other product nodes remain ecosystem mapping until their clean public repositories are independently constructed and released.
+XRECONY and XMECK-AI are separate product lines under XMECK-LAB.
+
+TRANSCRIPT / KAVACH remain ecosystem structure and should only be represented as public product repositories when their own publication surfaces are independently qualified.
 
 ## Research bridge
 
@@ -52,9 +54,10 @@ research / creator identity
       │                  research lineage
       │
       └──────────────► XMECK-LAB
-                         │
-                         └── XRECONY
-                             working software
+                         ├── XRECONY
+                         │    working reconstruction software
+                         └── XMECK-AI
+                              private-first intelligence product
 ```
 
-This separation preserves research provenance, product clarity and company identity without pretending that older research repositories were always XMECK-LAB products.
+This separation preserves research provenance, product clarity and organization identity without pretending that older research repositories were always XMECK-LAB products.

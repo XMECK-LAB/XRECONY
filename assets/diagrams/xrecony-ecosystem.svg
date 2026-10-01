@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="720" viewBox="0 0 1600 720" role="img">
+<defs><linearGradient id="bg" x1="0" x2="1"><stop stop-color="#030812"/><stop offset="1" stop-color="#091b34"/></linearGradient><style>.t{font-family:Segoe UI,Arial,sans-serif;fill:#f8fbff}.s{font-family:Segoe UI,Arial,sans-serif;fill:#9fb7d0}.b{font-family:Segoe UI,Arial,sans-serif;fill:#6bdcff;font-weight:700}.o{font-family:Segoe UI,Arial,sans-serif;fill:#ffae58;font-weight:700}</style></defs>
+<rect width="1600" height="720" rx="30" fill="url(#bg)"/>
+<text x="70" y="70" class="t" font-size="37" font-weight="800">XMECK-LAB × XRECONY</text>
+<text x="70" y="110" class="s" font-size="19">Research provenance and public product identity remain linked without being collapsed into one thing.</text>
+
+<rect x="585" y="150" width="430" height="105" rx="20" fill="#102743" stroke="#74dfff" stroke-width="2"/>
+<text x="655" y="194" class="t" font-size="28" font-weight="800">Raaj Mandale</text>
+<text x="640" y="226" class="s" font-size="18">creator · founder · systems architect</text>
+
+<path d="M800 255V315" stroke="#74dfff" stroke-width="4"/>
+<rect x="565" y="315" width="470" height="105" rx="20" fill="#142b48" stroke="#ff9d39" stroke-width="3"/>
+<text x="676" y="358" class="o" font-size="29">XMECK-LAB</text>
+<text x="630" y="391" class="s" font-size="18">public software / startup organization</text>
+
+<g stroke-width="3" fill="none">
+ <path d="M800 420V470H280V505" stroke="#48ceff"/>
+ <path d="M800 420V505" stroke="#48ceff"/>
+ <path d="M800 420V470H1320V505" stroke="#ff9d39"/>
+</g>
+
+<rect x="90" y="505" width="380" height="140" rx="22" fill="#2b2118" stroke="#ff9d39" stroke-width="3"/>
+<text x="160" y="550" class="o" font-size="30">XRECONY</text>
+<text x="135" y="586" class="s" font-size="18">reconstruction / structural understanding</text>
+<text x="145" y="615" class="s" font-size="18">working Windows software</text>
+
+<rect x="610" y="505" width="380" height="140" rx="22" fill="#102743" stroke="#46ceff" stroke-width="2"/>
+<text x="680" y="550" class="b" font-size="28">TRANSCRIPT</text>
+<text x="680" y="586" class="s" font-size="18">governed execution infrastructure</text>
+<text x="680" y="615" class="s" font-size="18">KAVACH → trust / protection substrate</text>
+
+<rect x="1130" y="505" width="380" height="140" rx="22" fill="#102743" stroke="#46ceff" stroke-width="2"/>
+<text x="1210" y="550" class="b" font-size="30">XMECK-AI</text>
+<text x="1185" y="586" class="s" font-size="18">private-first personal intelligence</text>
+<text x="1200" y="615" class="s" font-size="18">Windows product</text>
+
+<text x="70" y="687" class="s" font-size="16">XPADI-SGDS remains the broader survivability / reconstruction research lineage. XRECONY is the practical working reconstruction software surface.</text>
+</svg>

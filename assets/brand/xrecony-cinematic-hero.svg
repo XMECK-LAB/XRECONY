@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="620" viewBox="0 0 1600 620" role="img" aria-labelledby="title desc">
+<title id="title">XRECONY — Reconstruction Intelligence for Readable Data Estates</title>
+<desc id="desc">Cinematic blue-orange XRECONY banner showing readable sources, structural reconstruction, evidence, drift and safe realization.</desc>
+<defs>
+  <linearGradient id="bg" x1="0" x2="1"><stop stop-color="#020812"/><stop offset=".52" stop-color="#071a32"/><stop offset="1" stop-color="#030914"/></linearGradient>
+  <linearGradient id="cyan" x1="0" x2="1"><stop stop-color="#75e5ff"/><stop offset="1" stop-color="#1296ff"/></linearGradient>
+  <linearGradient id="orange" x1="0" x2="1"><stop stop-color="#ffbe6a"/><stop offset="1" stop-color="#ff6f00"/></linearGradient>
+  <radialGradient id="core"><stop offset="0" stop-color="#1d8cff"/><stop offset=".52" stop-color="#0b3268"/><stop offset="1" stop-color="#020812"/></radialGradient>
+  <filter id="glow"><feGaussianBlur stdDeviation="5" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+  <style>.t{font-family:Segoe UI,Arial,sans-serif;fill:#f8fbff}.s{font-family:Segoe UI,Arial,sans-serif;fill:#a9bfd8}.b{font-family:Segoe UI,Arial,sans-serif;fill:#6fddff;font-weight:700}.o{font-family:Segoe UI,Arial,sans-serif;fill:#ffad56;font-weight:700}</style>
+</defs>
+<rect width="1600" height="620" rx="34" fill="url(#bg)"/>
+<g opacity=".12" stroke="#5ccfff"><path d="M0 95H1600M0 520H1600"/><path d="M180 0V620M1425 0V620"/></g>
+
+<g transform="translate(1225 300)">
+  <circle r="152" fill="url(#core)" stroke="#42cfff" stroke-width="2"/>
+  <rect x="-92" y="-92" width="184" height="184" rx="34" transform="rotate(45)" fill="none" stroke="#43d6ff" stroke-width="2" opacity=".45">
+    <animateTransform attributeName="transform" additive="sum" type="rotate" from="0" to="360" dur="18s" repeatCount="indefinite"/>
+  </rect>
+  <rect x="-64" y="-64" width="128" height="128" rx="26" transform="rotate(45)" fill="none" stroke="#ff9b3a" stroke-width="2" opacity=".58">
+    <animateTransform attributeName="transform" additive="sum" type="rotate" from="0" to="-360" dur="23s" repeatCount="indefinite"/>
+  </rect>
+  <text x="0" y="18" text-anchor="middle" class="t" font-size="60" font-weight="850" filter="url(#glow)">XR</text>
+  <circle cx="-230" cy="-35" r="7" fill="#70e1ff">
+    <animate attributeName="cx" values="-230;220;-230" dur="7s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values=".15;1;.15" dur="7s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="205" cy="60" r="7" fill="#ff9b3a">
+    <animate attributeName="cx" values="205;-220;205" dur="9s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values=".2;1;.2" dur="9s" repeatCount="indefinite"/>
+  </circle>
+</g>
+
+<g class="t">
+  <text x="78" y="80" class="b" font-size="19" letter-spacing="4">XMECK-LAB · RECONSTRUCTION INTELLIGENCE</text>
+  <text x="78" y="184" font-size="82" font-weight="850" letter-spacing="4">XRECONY</text>
+  <text x="80" y="238" font-size="31" font-weight="650">Understand your data before you move it.</text>
+  <text x="80" y="283" class="s" font-size="23">Readable source → Structural twin → Evidence → Drift → Safe realization</text>
+
+  <g font-size="18" font-weight="700">
+    <rect x="80" y="337" width="184" height="42" rx="8" fill="#14283f" stroke="#42c9ff"/><text x="106" y="365">READ-ONLY SOURCE</text>
+    <rect x="278" y="337" width="204" height="42" rx="8" fill="#14283f" stroke="#42c9ff"/><text x="305" y="365">STRUCTURAL TWIN</text>
+    <rect x="496" y="337" width="178" height="42" rx="8" fill="#14283f" stroke="#42c9ff"/><text x="530" y="365">DRIFT / EVIDENCE</text>
+    <rect x="688" y="337" width="196" height="42" rx="8" fill="#302117" stroke="#ff9b38"/><text x="716" y="365">SAFE REALIZATION</text>
+  </g>
+
+  <text x="80" y="432" class="b" font-size="19">SOURCE / TYPE / TIMELINE / RECOVERY · DUPLICATE CANDIDATES · VERSION FAMILIES</text>
+  <text x="80" y="473" class="o" font-size="18">OBSERVE · RECONSTRUCT · EXPLAIN · VERIFY · COPY-FIRST REALIZE</text>
+  <text x="80" y="546" class="s" font-size="17">XRECONY 2.0 Public Preview · Windows · Active development</text>
+  <text x="80" y="579" class="s" font-size="17">Built by Raaj Mandale · Published under XMECK-LAB</text>
+</g>
+</svg>

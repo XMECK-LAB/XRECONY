@@ -1,0 +1,66 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="760" viewBox="0 0 1600 760" role="img">
+<defs>
+  <linearGradient id="bg" x1="0" x2="1"><stop stop-color="#020813"/><stop offset="1" stop-color="#081c35"/></linearGradient>
+  <radialGradient id="core"><stop offset="0" stop-color="#168cff"/><stop offset=".55" stop-color="#0a356f"/><stop offset="1" stop-color="#020913"/></radialGradient>
+  <filter id="g"><feGaussianBlur stdDeviation="4" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+  <style>.t{font-family:Segoe UI,Arial,sans-serif;fill:#f8fbff}.s{font-family:Segoe UI,Arial,sans-serif;fill:#9fb7d0}.h{font-family:Segoe UI,Arial,sans-serif;fill:#6bdcff;font-weight:700}.o{font-family:Segoe UI,Arial,sans-serif;fill:#ffad55;font-weight:700}</style>
+</defs>
+<rect width="1600" height="760" rx="30" fill="url(#bg)"/>
+<text x="68" y="68" class="t" font-size="36" font-weight="800">XRECONY Reconstruction Surface</text>
+<text x="68" y="106" class="s" font-size="19">A readable source remains untouched while XRECONY builds a separate evidence-backed structural workspace.</text>
+
+<g transform="translate(800 385)">
+  <circle r="125" fill="url(#core)" stroke="#45caff" stroke-width="3" filter="url(#g)"/>
+  <text x="-84" y="-4" class="t" font-size="31" font-weight="800">XRECONY</text>
+  <text x="-105" y="31" class="s" font-size="16">RECONSTRUCTION CORE</text>
+  <circle r="165" fill="none" stroke="#47d3ff" opacity=".34" stroke-width="2">
+    <animate attributeName="r" values="148;176;148" dur="5s" repeatCount="indefinite"/>
+  </circle>
+</g>
+
+<g fill="#102743" stroke-width="2">
+  <rect x="85" y="180" width="350" height="140" rx="22" stroke="#43ccff"/>
+  <rect x="85" y="465" width="350" height="140" rx="22" stroke="#43ccff"/>
+  <rect x="1165" y="180" width="350" height="140" rx="22" stroke="#ff9738"/>
+  <rect x="1165" y="465" width="350" height="140" rx="22" stroke="#ff9738"/>
+  <rect x="570" y="610" width="460" height="105" rx="22" stroke="#78e0ff"/>
+</g>
+
+<g class="t">
+  <text x="120" y="224" class="h" font-size="25">Readable Sources</text>
+  <text x="120" y="260" class="s" font-size="18">folders · HDD / SSD · SMB / NAS</text>
+  <text x="120" y="290" class="s" font-size="18">portable metadata manifest</text>
+
+  <text x="120" y="509" class="h" font-size="25">Structural Twin</text>
+  <text x="120" y="545" class="s" font-size="18">relationships · generations · views</text>
+  <text x="120" y="575" class="s" font-size="18">duplicate / version candidates</text>
+
+  <text x="1200" y="224" class="o" font-size="25">Evidence + Drift</text>
+  <text x="1200" y="260" class="s" font-size="18">verification · diagnostics · reports</text>
+  <text x="1200" y="290" class="s" font-size="18">generation comparison</text>
+
+  <text x="1200" y="509" class="o" font-size="25">Safe Realization</text>
+  <text x="1200" y="545" class="s" font-size="18">copy-first · separate destination</text>
+  <text x="1200" y="575" class="s" font-size="18">no source overwrite</text>
+
+  <text x="615" y="651" class="h" font-size="23">Source / Type / Timeline / Recovery</text>
+  <text x="615" y="687" class="s" font-size="18">reconstructed views · exports · evidence receipts</text>
+</g>
+
+<g fill="none" stroke-width="3">
+  <path id="a" d="M435 250 C560 250 620 325 680 355" stroke="#45cfff"/>
+  <path id="b" d="M435 535 C560 535 620 460 680 420" stroke="#45cfff"/>
+  <path id="c" d="M1165 250 C1040 250 980 325 920 355" stroke="#ff9a3a"/>
+  <path id="d" d="M1165 535 C1040 535 980 460 920 420" stroke="#ff9a3a"/>
+  <path id="e" d="M800 510V610" stroke="#7fdfff"/>
+</g>
+<g filter="url(#g)">
+  <circle r="7" fill="#69dcff"><animateMotion dur="2.9s" repeatCount="indefinite"><mpath href="#a"/></animateMotion></circle>
+  <circle r="7" fill="#69dcff"><animateMotion dur="3.5s" repeatCount="indefinite"><mpath href="#b"/></animateMotion></circle>
+  <circle r="7" fill="#ff9c3c"><animateMotion dur="3.1s" repeatCount="indefinite"><mpath href="#c"/></animateMotion></circle>
+  <circle r="7" fill="#ff9c3c"><animateMotion dur="3.7s" repeatCount="indefinite"><mpath href="#d"/></animateMotion></circle>
+  <circle r="7" fill="#fff"><animateMotion dur="2.2s" repeatCount="indefinite"><mpath href="#e"/></animateMotion></circle>
+</g>
+
+<text x="86" y="735" class="s" font-size="16">OBSERVE → RECONSTRUCT → EXPLAIN → VERIFY → COPY-FIRST REALIZE · THE SOURCE REMAINS THE SOURCE</text>
+</svg>
