@@ -19,7 +19,9 @@
 
 <br>
 
-[![CURRENT](https://img.shields.io/badge/OPEN-XRECONY%202.0-0284c7?style=for-the-badge)](https://github.com/XMECK-LAB/XRECONY/tree/main)
+[![DOWNLOAD](https://img.shields.io/badge/DOWNLOAD-WINDOWS%20X64-16a34a?style=for-the-badge)](https://github.com/XMECK-LAB/XRECONY/releases/latest/download/XRECONY-2.0.0-Windows-x64-Setup.exe)
+[![FULL PACKAGE](https://img.shields.io/badge/DOWNLOAD-FULL%20PUBLIC%20PACKAGE-0284c7?style=for-the-badge)](https://github.com/XMECK-LAB/XRECONY/releases/latest/download/XRECONY-2.0.0-Windows-x64-Public-Release.zip)
+[![CURRENT](https://img.shields.io/badge/OPEN-XRECONY%202.0-2563eb?style=for-the-badge)](https://github.com/XMECK-LAB/XRECONY/tree/release/2.x)
 [![V1](https://img.shields.io/badge/OPEN-XRECONY%201.x-4f46e5?style=for-the-badge)](https://github.com/XMECK-LAB/XRECONY/tree/release/1.x)
 [![DEMO](https://img.shields.io/badge/OPEN-DEMO-f97316?style=for-the-badge)](demo/index.html)
 [![EVIDENCE](https://img.shields.io/badge/OPEN-BENCHMARKS-374151?style=for-the-badge)](docs/BENCHMARKS.md)
@@ -69,21 +71,45 @@ XRECONY is intentionally designed to understand before reorganizing.
 
 ---
 
-# 🚀 Public Version Lines
+# 🚀 Download XRECONY 2.0
+
+### Windows x64
+
+[**⬇ Download XRECONY 2.0 for Windows**](https://github.com/XMECK-LAB/XRECONY/releases/latest/download/XRECONY-2.0.0-Windows-x64-Setup.exe)
+
+[**📦 Download Complete Public Release Package**](https://github.com/XMECK-LAB/XRECONY/releases/latest/download/XRECONY-2.0.0-Windows-x64-Public-Release.zip)
+
+**Installer SHA-256**
+
+```text
+B55152AD66E95338FDE5DD9E836B0B1738AC9F42C59DB9FC7361794E39500F7E
+```
+
+**Public release ZIP SHA-256**
+
+```text
+114B3585F235F6AA2D2DADEB042DE82FD03CA54A84F950E12FA62100B07A19E1
+```
+
+The complete release package contains the Windows installer, verification material, provenance, SBOM, source manifest and release documentation.
+
+➡️ [**Open XRECONY 2.0 Release**](https://github.com/XMECK-LAB/XRECONY/releases/tag/v2.0.0)
+
+---
+
+# 🧬 Public Version Lines
 
 XRECONY intentionally keeps public versioning simple.
 
 | Public line | Meaning | Public surface |
 |---|---|---|
-| 🧪 **XRECONY 1.0 Engineering Preview** | First public engineering line distilled from the mature pre-2.0 working lineage | [`release/1.x`](https://github.com/XMECK-LAB/XRECONY/tree/release/1.x) |
-| 🧬 **XRECONY 2.0 Public Preview** | Current product line with a more complete evidence-backed reconstruction workflow | [`main`](https://github.com/XMECK-LAB/XRECONY/tree/main) |
+| 🧪 **XRECONY 1.0 Engineering Preview** | First public line distilled from the mature pre-2.0 working lineage | [`release/1.x`](https://github.com/XMECK-LAB/XRECONY/tree/release/1.x) |
+| 🧬 **XRECONY 2.0 Public Preview** | Current product line with the complete public reconstruction workflow | [`release/2.x`](https://github.com/XMECK-LAB/XRECONY/tree/release/2.x) |
+| 🌐 **main** | Current public product presentation, documentation and discovery surface | [`main`](https://github.com/XMECK-LAB/XRECONY/tree/main) |
 
-> **Release artifact status:** the GitHub Releases page currently contains no published release assets. This README does not invent download links that do not exist.
-
-When qualified Windows artifacts are published, they should appear on the repository's [GitHub Releases](https://github.com/XMECK-LAB/XRECONY/releases) surface.
+Binary delivery is published through the GitHub Release so users can download XRECONY directly from this README without navigating through Tags.
 
 Internal Surface / XRF / RSF / V4–V11 / LSDR terminology remains engineering history and is not used as public product numbering.
-
 ---
 
 # 🏛️ Architecture
@@ -126,9 +152,9 @@ The source is readable input. Reconstruction state is written to a separate work
 
 ---
 
-# 🔬 Engineering Evidence
+# 🔬 Observed Reconstruction Evidence
 
-These are **Founder-machine observations**, not universal speed claims.
+These are observed reconstruction workloads, not universal speed guarantees.
 
 <p align="center">
   <img src="assets/evidence/benchmark-109gb.svg" width="48%" alt="109 GB verified workload">
@@ -355,7 +381,7 @@ See [`LICENSE.txt`](LICENSE.txt) for the current repository rights boundary.
 
 **Current status:** XRECONY 2.0 Public Preview · Active development.
 
-XRECONY is real working engineering software. It is not presented as a finished commercial product or as proof of every long-term research objective.
+XRECONY is working software published as a Public Preview. Long-term research objectives remain clearly separated from current product capability.
 
 The repository deliberately distinguishes:
 
@@ -365,7 +391,8 @@ The repository deliberately distinguishes:
 
 <div align="center">
 
-[![CURRENT](https://img.shields.io/badge/OPEN-XRECONY%202.0-0284c7?style=for-the-badge)](https://github.com/XMECK-LAB/XRECONY/tree/main)
+[![DOWNLOAD](https://img.shields.io/badge/DOWNLOAD-XRECONY%202.0-16a34a?style=for-the-badge)](https://github.com/XMECK-LAB/XRECONY/releases/latest/download/XRECONY-2.0.0-Windows-x64-Setup.exe)
+[![CURRENT](https://img.shields.io/badge/OPEN-XRECONY%202.0-0284c7?style=for-the-badge)](https://github.com/XMECK-LAB/XRECONY/tree/release/2.x)
 [![V1](https://img.shields.io/badge/OPEN-XRECONY%201.x-4f46e5?style=for-the-badge)](https://github.com/XMECK-LAB/XRECONY/tree/release/1.x)
 [![DEMO](https://img.shields.io/badge/OPEN-DEMO-f97316?style=for-the-badge)](demo/index.html)
 
