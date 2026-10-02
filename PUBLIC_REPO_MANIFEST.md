@@ -1,32 +1,48 @@
-# Public Repository Manifest
+# XRECONY — Public Repository Manifest
 
-This file defines the intentionally small public surface.
+This repository is the curated public product surface for XRECONY.
 
-## Root
-- README.md
-- LICENSE.txt / LICENSE
-- CITATION.cff
-- SECURITY.md
-- CHANGELOG.md
+## Branch model
 
-## Product
-- src or product package
-- tests
-- scripts
-- packaging
+- `main` — current product identity, discovery, documentation and direct downloads
+- `release/1.x` — XRECONY 1.0 Engineering Preview
+- `release/2.x` — XRECONY 2.0 Public Preview
 
-## Documentation
-- docs/architecture.md
-- docs/BENCHMARKS.md
-- docs/ROADMAP.md
-- docs/HISTORY.md
-- docs/XMECK_ECOSYSTEM.md
+## Release model
 
-## Visual
-- assets/brand
-- assets/diagrams
-- assets/evidence
-- assets/screenshots
-- demo/
+Deployable artifacts are published through GitHub Releases.
 
-Generated build environments, PyInstaller internals, private governance, donor trees, qualification logs and founder-only evidence do not belong in the public source tree.
+Current public release:
+
+`v2.0.0 — XRECONY 2.0 Public Preview`
+
+The public release contains the Windows installer, complete public ZIP, SHA-256 list, provenance, SBOM and source manifest.
+
+## Public repository surface
+
+### Root
+- `README.md`
+- `LICENSE.txt`
+- `CITATION.cff`
+- `SECURITY.md`
+- `CHANGELOG.md`
+- `PUBLIC_REPO_MANIFEST.md`
+
+### Documentation
+- `docs/ARCHITECTURE.md`
+- `docs/BENCHMARKS.md`
+- `docs/ROADMAP.md`
+- `docs/HISTORY.md`
+- `docs/XMECK_ECOSYSTEM.md`
+- `docs/PUBLICATION.md`
+
+### Visual / demo
+- `assets/brand/`
+- `assets/diagrams/`
+- `assets/evidence/`
+- `assets/screenshots/`
+- `demo/`
+
+## Excluded from the public surface
+
+Generated build environments, PyInstaller internals, private governance, donor trees, private qualification logs, credentials, local workspaces and unpublished engineering history do not belong in this public repository.
