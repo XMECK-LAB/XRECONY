@@ -46,3 +46,9 @@ The public release contains the Windows installer, complete public ZIP, SHA-256 
 ## Excluded from the public surface
 
 Generated build environments, PyInstaller internals, private governance, donor trees, private qualification logs, credentials, local workspaces and unpublished engineering history do not belong in this public repository.
+## Live public demo
+
+- Public website: https://xmeck-lab.github.io/XRECONY/
+- GitHub Pages source: `main:/docs`
+- Hosted entry point: `docs/index.html`
+- `demo/index.html` is intentionally removed to prevent GitHub `/blob/` source-view confusion.

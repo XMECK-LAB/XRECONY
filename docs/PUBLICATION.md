@@ -41,3 +41,12 @@ The current release does not claim:
 - destructive duplicate removal;
 - universal benchmark leadership;
 - the long-term 25 TB-class research objective as a proven capability.
+## Live website
+
+Canonical public demo / landing surface:
+
+https://xmeck-lab.github.io/XRECONY/
+
+GitHub Pages publishes from `main:/docs`.
+
+`docs/index.html` is the single hosted website source. Repository README demo links must point directly to the Pages URL rather than a GitHub `/blob/` file view.

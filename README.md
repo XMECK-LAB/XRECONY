@@ -23,7 +23,7 @@
 [![FULL PACKAGE](https://img.shields.io/badge/DOWNLOAD-FULL%20PUBLIC%20PACKAGE-0284c7?style=for-the-badge)](https://github.com/XMECK-LAB/XRECONY/releases/latest/download/XRECONY-2.0.0-Windows-x64-Public-Release.zip)
 [![CURRENT](https://img.shields.io/badge/OPEN-XRECONY%202.0-2563eb?style=for-the-badge)](https://github.com/XMECK-LAB/XRECONY/tree/release/2.x)
 [![V1](https://img.shields.io/badge/OPEN-XRECONY%201.x-4f46e5?style=for-the-badge)](https://github.com/XMECK-LAB/XRECONY/tree/release/1.x)
-[![DEMO](https://img.shields.io/badge/OPEN-DEMO-f97316?style=for-the-badge)](demo/index.html)
+[![DEMO](https://img.shields.io/badge/OPEN-LIVE%20DEMO-f97316?style=for-the-badge)](https://xmeck-lab.github.io/XRECONY/)
 [![EVIDENCE](https://img.shields.io/badge/OPEN-BENCHMARKS-374151?style=for-the-badge)](docs/BENCHMARKS.md)
 
 </div>
@@ -394,7 +394,7 @@ The repository deliberately distinguishes:
 [![DOWNLOAD](https://img.shields.io/badge/DOWNLOAD-XRECONY%202.0-16a34a?style=for-the-badge)](https://github.com/XMECK-LAB/XRECONY/releases/latest/download/XRECONY-2.0.0-Windows-x64-Setup.exe)
 [![CURRENT](https://img.shields.io/badge/OPEN-XRECONY%202.0-0284c7?style=for-the-badge)](https://github.com/XMECK-LAB/XRECONY/tree/release/2.x)
 [![V1](https://img.shields.io/badge/OPEN-XRECONY%201.x-4f46e5?style=for-the-badge)](https://github.com/XMECK-LAB/XRECONY/tree/release/1.x)
-[![DEMO](https://img.shields.io/badge/OPEN-DEMO-f97316?style=for-the-badge)](demo/index.html)
+[![DEMO](https://img.shields.io/badge/OPEN-LIVE%20DEMO-f97316?style=for-the-badge)](https://xmeck-lab.github.io/XRECONY/)
 
 <br><br>
 
