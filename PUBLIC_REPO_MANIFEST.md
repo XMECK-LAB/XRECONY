@@ -1,32 +1,32 @@
-# Public Repository Manifest
+# XRECONY 2.0 — Public Branch Manifest
 
-This file defines the intentionally small public surface.
+This branch is the public product line for **XRECONY 2.0 — Public Preview**.
 
-## Root
-- README.md
-- LICENSE.txt / LICENSE
-- CITATION.cff
-- SECURITY.md
-- CHANGELOG.md
+## Version-line purpose
 
-## Product
-- src or product package
-- tests
-- scripts
-- packaging
+`release/2.x` contains:
 
-## Documentation
-- docs/architecture.md
-- docs/BENCHMARKS.md
-- docs/ROADMAP.md
-- docs/HISTORY.md
-- docs/XMECK_ECOSYSTEM.md
+- the version-specific README;
+- public product documentation;
+- product images and demo assets;
+- license/security/citation material;
+- links to the canonical downloadable GitHub Release.
 
-## Visual
-- assets/brand
-- assets/diagrams
-- assets/evidence
-- assets/screenshots
-- demo/
+## Binary distribution
 
-Generated build environments, PyInstaller internals, private governance, donor trees, qualification logs and founder-only evidence do not belong in the public source tree.
+Binaries are intentionally not duplicated into ordinary Git history.
+
+Canonical downloadable artifacts are published under:
+
+`v2.0.0`
+
+https://github.com/XMECK-LAB/XRECONY/releases/tag/v2.0.0
+
+## Branch model
+
+- `main` — current product/discovery/documentation surface
+- `release/1.x` — XRECONY 1.0 Engineering Preview
+- `release/2.x` — XRECONY 2.0 Public Preview
+- `v2.0.0` — exact XRECONY 2.0 release marker
+
+Private governance, donor trees, internal qualification logs and unpublished engineering history do not belong in this public branch.
